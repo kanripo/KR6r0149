@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:29:09.807436
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:28
 #+TITLE: 辯偽錄
 #+PROPERTY: CBETA_ID T52n2116
 #+PROPERTY: ID KR6r0149
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 52, No. 2116
 #+PROPERTY: VOL 52
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0149_T_003-0765c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 辯偽錄卷第三¶
+辯偽錄卷第三¶
 ¶
 元道者山雲峯禪寺沙門¶
 祥邁奉　勅實錄撰¶
@@ -79,7 +78,7 @@
 唯算端汗。奪破乃滿之地。軍馬強盛。據有¶
 尋思干城(或云邪木思干遼之河中府也)聞上西討即南走入鐵¶
 門。遁於大雪山南。潛趨印度。上率眾襲之。¶
-駐蹕大雪山南。辛巳冬十一月十八日丘公¶
+駐蹕大雪山南。辛已冬十一月十八日丘公¶
 至。尋思干城以雪山大雪屯谷可有二丈深¶
 不可行。且止城中。壬午夏四月初五日。始¶
 過雪山達於行宮。至上前數拜退身致敬。禮¶
